@@ -15,6 +15,7 @@
 		F78D3C2C24BE632000435BD6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F78D3C2A24BE632000435BD6 /* LaunchScreen.storyboard */; };
 		F78D3C3724BE632000435BD6 /* Mole_Scan_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78D3C3624BE632000435BD6 /* Mole_Scan_AppTests.swift */; };
 		F78D3C4224BE632000435BD6 /* Mole_Scan_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78D3C4124BE632000435BD6 /* Mole_Scan_AppUITests.swift */; };
+		F78D3C9424BE73DF00435BD6 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78D3C9324BE73DF00435BD6 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F78D3C3D24BE632000435BD6 /* Mole Scan AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mole Scan AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F78D3C4124BE632000435BD6 /* Mole_Scan_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mole_Scan_AppUITests.swift; sourceTree = "<group>"; };
 		F78D3C4324BE632000435BD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F78D3C9324BE73DF00435BD6 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				F78D3C1F24BE631F00435BD6 /* AppDelegate.swift */,
+				F78D3C9324BE73DF00435BD6 /* SecondViewController.swift */,
 				F78D3C2124BE631F00435BD6 /* SceneDelegate.swift */,
 				F78D3C2324BE631F00435BD6 /* ViewController.swift */,
 				F78D3C2524BE631F00435BD6 /* Main.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F78D3C9424BE73DF00435BD6 /* SecondViewController.swift in Sources */,
 				F78D3C2424BE631F00435BD6 /* ViewController.swift in Sources */,
 				F78D3C2024BE631F00435BD6 /* AppDelegate.swift in Sources */,
 				F78D3C2224BE631F00435BD6 /* SceneDelegate.swift in Sources */,
